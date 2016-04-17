@@ -1,9 +1,19 @@
-<h1>Éı¼¶javaÖÁ1.7</h1>
+## å®‰è£…
+```
+$ yum install maven
+$ mvn -version
+```
+
+
+
+
+
+<h1>å‡çº§javaè‡³1.7</h1>
 <pre>
 $ yum install -y java-1.7.0-openjdk java-1.7.0-openjdk-devel
 </pre>
 
-<h1>°²×°</h1>
+<h1>å®‰è£…</h1>
 <pre>
 $ wget http://mirror.olnevhost.net/pub/apache/maven/maven-3/3.2.5/binaries/apache-maven-3.2.5-bin.tar.gz
 $ tar -xzvf apache-maven-3.2.5-bin.tar.gz
@@ -18,7 +28,7 @@ $ source ~/.bashrc
 $ mvn --version
 </pre>
 
-<h1>²Î¿¼ÎÄÏ×</h1>
+<h1>å‚è€ƒæ–‡çŒ®</h1>
 <ul>
-	<li>MavenµÄ°²×°¡¢ÅäÖÃ¼°Ê¹ÓÃÈëÃÅ£º<a href="http://www.cnblogs.com/dcba1112/archive/2011/05/01/2033805.html">http://www.cnblogs.com/dcba1112/archive/2011/05/01/2033805.html</a></li>
+	<li>Mavençš„å®‰è£…ã€é…ç½®åŠä½¿ç”¨å…¥é—¨ï¼š<a href="http://www.cnblogs.com/dcba1112/archive/2011/05/01/2033805.html">http://www.cnblogs.com/dcba1112/archive/2011/05/01/2033805.html</a></li>
 </ul>
