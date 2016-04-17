@@ -8,6 +8,8 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
+    <build>
+        <plugins>	
 	<plugin>  
 <groupId>org.apache.maven.plugins</groupId>  
   <artifactId>maven-shade-plugin</artifactId>  
@@ -28,4 +30,6 @@
      </execution>  
   </executions>  
 </plugin> 
+        </plugins>
+    </build>
 </project>
